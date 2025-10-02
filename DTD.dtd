@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE student SYSTEM "student.dtd">
+
+<student>
+    <name>Rahul Sharma</name>
+    <dob>2002-05-15</dob>
+    <email>rahul.sharma@example.com</email>
+    <phone>9876543210</phone>
+    <course>B.Tech</course>
+    <branch>Computer Science</branch>
+    <subjects>
+        <subject>Maths</subject>
+        <subject>DSA</subject>
+        <subject>Python</subject>
+    </subjects>
+</student>
